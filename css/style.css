@@ -1,0 +1,41 @@
+
+h1{
+  text-align: center;
+}
+h1:hover{
+   color: red;
+}
+
+img{
+  padding: 10px;
+  border-radius: 70%;
+
+}
+img:hover{
+  background-color: orange;
+  width: 70%;
+
+}
+.sn{
+  background-color: red;
+
+
+}
+.sneha:hover{
+  background-color: black;
+
+
+}
+.sne{
+     background-color: lightgreen;
+       width: 200px;
+}
+
+#pi:hover{
+  color: violet;
+
+}
+p:hover{
+  color: brown;
+
+}
